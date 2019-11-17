@@ -23,7 +23,7 @@
     <td><a href ="/delete/${p.id}">DELETE</a></td>
     <td><a href = "${p.id}">SEE ALL COMMENTS</a></td>
         <%--<td><a href="/post/${p.id}">${p.id}</a></td>--%>
-        <%--<td><a href ="/update/${p.id}">UPDATE</a></td>--%>
+    <td><a href ="/update/${p.id}">UPDATE</a></td>
     <%--<td><a href ="${p.id}/comments/">SHOW COMMENTS</a></td>--%>
 </tr>
     <tr>

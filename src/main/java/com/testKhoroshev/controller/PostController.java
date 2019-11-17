@@ -59,5 +59,4 @@ public class PostController {
         model.addAttribute("post",postService.getById(id));
         return "editPost";
     }
-
 }
